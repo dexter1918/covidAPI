@@ -1,7 +1,7 @@
 public class Main {
 
  public int id;
- public int name;
+ public int age;
  
  public static void getCertInfo () {
  
